@@ -18,4 +18,4 @@ if sys.argv[1] == 'spores':
 
 #print(pollendata().tree())
 
-print("HELLO WORLD FROM TODAY!")
+print("JEREMY WAS HERE!")
